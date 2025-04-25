@@ -6,6 +6,8 @@
     <file url="file://$PROJECT_DIR$/03_top_spending_customers.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/04_best_selling_categories.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/05_monthly_sales_summary.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/06_top_5_customers_last_year.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/07_top_5_products_highest_avg_order_value.sql" dialect="PostgreSQL" />
     <file url="PROJECT" dialect="PostgreSQL" />
   </component>
 </project>
