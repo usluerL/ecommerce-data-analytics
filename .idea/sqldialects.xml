@@ -9,6 +9,9 @@
     <file url="file://$PROJECT_DIR$/06_top_5_customers_last_year.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/07_top_5_products_highest_avg_order_value.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/08_customers_with_above_average_spending.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/09_top_customers_per_category.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/10_top_customer_per_category_by_quantity.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/11_vip_customers_by_spending.sql" dialect="PostgreSQL" />
     <file url="PROJECT" dialect="PostgreSQL" />
   </component>
 </project>
