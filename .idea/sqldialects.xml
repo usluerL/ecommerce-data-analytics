@@ -14,6 +14,7 @@
     <file url="file://$PROJECT_DIR$/10_top_customer_per_category_by_quantity.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/1148_article_views.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/11_vip_customers_by_spending.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/1251_average_selling_price.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/1280_students_examinations.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/12_supplier_product_integrity_check.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/1378_replace_employee_ iD_ with_the_unique_identifier.sql" dialect="PostgreSQL" />
@@ -29,6 +30,7 @@
     <file url="file://$PROJECT_DIR$/197_rising_temperature.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/584_find_customer_referee.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/595_big_countries.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/620_not_boring_movies.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/employee_bonus.sql" dialect="PostgreSQL" />
     <file url="PROJECT" dialect="PostgreSQL" />
   </component>
